@@ -41,7 +41,7 @@ ecommerce-api/
 Clone the repository
 
 ```
-git clone your-repo-link
+git clone https://github.com/saibabu-7272/E-adaptNXT
 cd ecommerce-api
 ```
 Install dependencies
