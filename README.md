@@ -1,3 +1,15 @@
+NOTE: 
+Dummy credentials
+```
+//ADMIN
+email: aadhya@example.com
+password: 123456
+
+//CUSTOMER
+email: john@example.com
+password: 123456
+
+```
 # Frontend 
 Implemented only a few features.
 Tech stack:
